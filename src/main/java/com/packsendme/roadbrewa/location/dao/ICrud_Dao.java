@@ -6,6 +6,8 @@ import java.util.Optional;
 public interface ICrud_Dao<T> {
 
 	public T save(T entity);
+	
+	public void addList(List<T> entity);
 
 	public Optional<T> findOneById(String id);
 	

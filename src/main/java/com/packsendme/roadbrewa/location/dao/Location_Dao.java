@@ -103,5 +103,11 @@ public class Location_Dao implements ICrud_Dao<Location> {
 	public List<Location> findEntityByParameters(String name) {
 		// TODO Auto-generated method stub
 		return null;
+	}
+
+	@Override
+	public void addList(List<Location> entity) {
+		// TODO Auto-generated method stub
+		
 	} 
 }

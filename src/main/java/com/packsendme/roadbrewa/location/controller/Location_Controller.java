@@ -15,6 +15,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.packsendme.roadbrewa.dto.LocationDto;
+import com.packsendme.roadbrewa.location.service.Country_Service;
 import com.packsendme.roadbrewa.location.service.Location_Service;
 
 @RestController
@@ -24,6 +25,8 @@ public class Location_Controller {
 	
 	@Autowired
 	private Location_Service locationService;	
+	@Autowired
+	private Country_Service countryService;	
 
 	
 	/***************************************
@@ -63,5 +66,19 @@ public class Location_Controller {
 	{	
 		return locationService.update(id, location);
 	}
+	
+	/***************************************
+	 COUNTRY <--> GET | POST | DELETE 
+	 * @throws Exception 
+	***************************************/
+
+
+	@CrossOrigin(origins = "*", allowedHeaders = "*")
+	@GetMapping("/location/country")
+	public ResponseEntity<?> getCountry(@RequestHeader("isoLanguageCode") String isoLanguageCode,@RequestHeader("isoCountryCode") String isoCountryCode,
+			@RequestHeader("isoCurrencyCode") String isoCurrencyCode,@RequestHeader("originApp") String originApp) throws Exception {	
+		return countryService.getCountryAll();
+	}
+
 
 }
