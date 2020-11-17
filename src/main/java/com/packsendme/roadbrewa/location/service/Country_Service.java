@@ -62,7 +62,7 @@ public class Country_Service {
 			List<Country> countryL = country_DAO.findAll();
 			countriesListResponse_Dto.countries = countryDto.entityTOdto(countryL);
 			responseObj = new Response<CountriesListResponse_Dto>(0,HttpExceptionPackSend.COUNTRY_CREATED.getAction(), countriesListResponse_Dto);
-			return new ResponseEntity<>(responseObj, HttpStatus.FOUND);
+			return new ResponseEntity<>(responseObj, HttpStatus.ACCEPTED);
 		}
 		catch (Exception e ) {
 			e.printStackTrace();
