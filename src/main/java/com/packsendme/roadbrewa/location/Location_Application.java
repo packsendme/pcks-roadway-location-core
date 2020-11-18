@@ -11,6 +11,7 @@ import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 import org.springframework.context.annotation.Bean;
 
 import com.fasterxml.jackson.core.type.TypeReference;
+import com.fasterxml.jackson.databind.DeserializationFeature;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.packsendme.roadbrewa.entity.Country;
 import com.packsendme.roadbrewa.location.service.Country_Service;
@@ -36,6 +37,7 @@ public class Location_Application {
 			if(countrL == 0) {
 				// read json and write to db
 				ObjectMapper mapper = new ObjectMapper();
+				mapper.configure(DeserializationFeature.FAIL_ON_UNKNOWN_PROPERTIES, false);   
 				TypeReference<List<Country>> typeReference = new TypeReference<List<Country>>(){};
 				InputStream inputStream = TypeReference.class.getResourceAsStream("/country_US.json");
 				try {
