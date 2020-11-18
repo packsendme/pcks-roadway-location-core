@@ -4,15 +4,15 @@
 	   "codcountry" : "+93",
 	   "namecountry" : "Afghanistan (+93)",
 	   "nameimagecountry" : "iconAfghanistan",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "AL",
 	   "codcountry" : "+355",
 	   "namecountry" : "Albania (+355)",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 
 	},
 	{
@@ -20,8 +20,8 @@
 	   "codcountry" : "+213",
 	   "namecountry" : "Algeria (+213)",
 	   "nameimagecountry" : "iconAlgeria",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	   
 	},
 	{
@@ -29,744 +29,756 @@
 	   "codcountry" : "+376",
 	   "namecountry" : "Andorra (+376)",
 	   "nameimagecountry" : "iconAndorra",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "AO",
 	   "codcountry" : "+244",
 	   "namecountry" : "Angola (+244)",
 	   "nameimagecountry" : "iconAngola",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "AI",
 	   "codcountry" : "+1264",
 	   "namecountry" : "Anguilla (+1264)",
 	   "nameimagecountry" : "iconAnguilla",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "AR",
 	   "codcountry" : "+54",
 	   "namecountry" : "Argentina (+54)",
 	   "nameimagecountry" : "iconArgentina",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "AM",
 	   "codcountry" : "+374",
 	   "namecountry" : "Armenia (+374)",
 	   "nameimagecountry" : "iconArmenia",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "AU",
 	   "codcountry" : "+61",
 	   "namecountry" : "Australia (+61)",
 	   "nameimagecountry" : "iconAustralia",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
+
 	},
 	{
 	   "identifier" : "AT",
 	   "codcountry" : "+43",
 	   "namecountry" : "Austria (+43)",
 	   "nameimagecountry" : "iconAustria",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
+
 	},
 	{
 	   "identifier" : "BS",
 	   "codcountry" : "+1242",
 	   "namecountry" : "Bahamas (+1242)",
 	   "nameimagecountry" : "iconBahamas",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
+
 	},
 	{
 	   "identifier" : "BE",
 	   "codcountry" : "+32",
 	   "namecountry" : "Belgium (+32)",
 	   "nameimagecountry" : "iconBelgium",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
+
 	},
 	{
 	   "identifier" : "BO",
 	   "codcountry" : "+591",
 	   "namecountry" : "Bolivia (+591)",
 	   "nameimagecountry" : "iconBolivia",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
+
 	},
 	{
 	   "identifier" : "BR",
 	   "codcountry" : "+55",
 	   "namecountry" : "Brazil (+55)",
 	   "nameimagecountry" : "iconBrazil",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
+
 	},
 	{
 	   "identifier" : "BG",
 	   "codcountry" : "+359",
 	   "namecountry" : "Bulgaria (+359)",
 	   "nameimagecountry" : "iconBulgaria",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
+
 	},
 	{
 	   "identifier" : "KH",
 	   "codcountry" : "+855",
 	   "namecountry" : "Cambodia (+855)",
 	   "nameimagecountry" : "iconCambodia",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
+
 	},
 	{
 	   "identifier" : "CA",
 	   "codcountry" : "+1",
 	   "namecountry" : "Canada (+1)",
 	   "nameimagecountry" : "iconCanada",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
+
 	},
 	{
 	   "identifier" : "CF",
 	   "codcountry" : "+236",
 	   "namecountry" : "Central African Republic (+236)",
 	   "nameimagecountry" : "iconAfricana",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
+
 	},
 	{
 	   "identifier" : "CL",
 	   "codcountry" : "+56",
 	   "namecountry" : "Chile (+56)",
 	   "nameimagecountry" : "iconChile",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
+
 	},
 	{
 	   "identifier" : "CN",
 	   "codcountry" : "+86",
 	   "namecountry" : "China (+86)",
 	   "nameimagecountry" : "iconChina",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "CO",
 	   "codcountry" : "+57",
 	   "namecountry" : "Colombia (+57)",
 	   "nameimagecountry" : "iconColombia",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "CR",
 	   "codcountry" : "+506",
 	   "namecountry" : "Costa Rica (+506)",
 	   "nameimagecountry" : "iconCostarica",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "CZ",
 	   "codcountry" : "+420",
 	   "namecountry" : "Czech Republic (+420)",
 	   "nameimagecountry" : "iconCzechrepublic",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "DK",
 	   "codcountry" : "+45",
 	   "namecountry" : "Denmark (+45)",
 	   "nameimagecountry" : "iconDenmark",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "DO",
 	   "codcountry" : "+809",
 	   "namecountry" : "Dominican Republic (+809)",
 	   "nameimagecountry" : "iconDominicanrepublic",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "EC",
 	   "codcountry" : "+593",
 	   "namecountry" : "Ecuador (+593)",
 	   "nameimagecountry" : "iconEcuador",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "EG",
 	   "codcountry" : "+20",
 	   "namecountry" : "Egypt (+20)",
 	   "nameimagecountry" : "iconEgypt",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "EE",
 	   "codcountry" : "+372",
 	   "namecountry" : "Estonia (+372)",
 	   "nameimagecountry" : "iconEstonia",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "FI",
 	   "codcountry" : "+358",
 	   "namecountry" : "Finland (+358)",
 	   "nameimagecountry" : "iconFinland",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "FR",
 	   "codcountry" : "+33",
 	   "namecountry" : "France (+33)",
 	   "nameimagecountry" : "iconFrance",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "PF",
 	   "codcountry" : "+689",
 	   "namecountry" : "French Polynesia (+689)",
 	   "nameimagecountry" : "iconFrenchpolynesia",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
+
 	},
 	{
 	   "identifier" : "GE",
 	   "codcountry" : "+995",
 	   "namecountry" : "Georgia (+995)",
 	   "nameimagecountry" : "iconGeorgia",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "DE",
 	   "codcountry" : "+49",
 	   "namecountry" : "Germany (+49)",
 	   "nameimagecountry" : "iconGermany",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "GH",
 	   "codcountry" : "+233",
 	   "namecountry" : "Ghana (+233)",
 	   "nameimagecountry" : "iconGhana",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "GR",
 	   "codcountry" : "+30",
 	   "namecountry" : "Greece (+30)",
 	   "nameimagecountry" : "iconGreece",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "GT",
 	   "codcountry" : "+502",
 	   "namecountry" : "Guatemala (+502)",
 	   "nameimagecountry" : "iconGuatemala",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "GW",
 	   "codcountry" : "+224",
 	   "namecountry" : "Guinea (+224)",
 	   "nameimagecountry" : "iconGuinea",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "HT",
 	   "codcountry" : "+509",
 	   "namecountry" : "Haiti (+509)",
 	   "nameimagecountry" : "iconHaiti",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "HN",
 	   "codcountry" : "+504",
 	   "namecountry" : "Honduras (+504)",
 	   "nameimagecountry" : "iconHonduras",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "HU",
 	   "codcountry" : "+36",
 	   "namecountry" : "Hungary (+36)",
 	   "nameimagecountry" : "iconHungary",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "IS",
 	   "codcountry" : "+354",
 	   "namecountry" : "Iceland (+354)",
 	   "nameimagecountry" : "iconIceland",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "IN",
 	   "codcountry" : "+91",
 	   "namecountry" : "India (+91)",
 	   "nameimagecountry" : "iconIndia",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "ID",
 	   "codcountry" : "+62",
 	   "namecountry" : "Indonesia (+62)",
 	   "nameimagecountry" : "iconIndonesia",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "IR",
 	   "codcountry" : "+98",
 	   "namecountry" : "Iran (+98)",
 	   "nameimagecountry" : "iconIran",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "IE",
 	   "codcountry" : "+353",
 	   "namecountry" : "Ireland (+353)",
 	   "nameimagecountry" : "iconIreland",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "IL",
 	   "codcountry" : "+972",
 	   "namecountry" : "Israel (+972)",
 	   "nameimagecountry" : "iconIsrael",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "IT",
 	   "codcountry" : "+39",
 	   "namecountry" : "Italy (+39)",
 	   "nameimagecountry" : "iconItaly",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "JM",
 	   "codcountry" : "+876",
 	   "namecountry" : "Jamaica (+876)",
 	   "nameimagecountry" : "iconJamaica",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "JP",
 	   "codcountry" : "+81",
 	   "namecountry" : "Japan (+81)",
 	   "nameimagecountry" : "iconJapan",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "JO",
 	   "codcountry" : "+962",
 	   "namecountry" : "Jordan (+962)",
 	   "nameimagecountry" : "iconJordan",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "KE",
 	   "codcountry" : "+254",
 	   "namecountry" : "Kenya (+254)",
 	   "nameimagecountry" : "iconKenya",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "LU",
 	   "codcountry" : "+352",
 	   "namecountry" : "Luxembourg (+352)",
 	   "nameimagecountry" : "iconLuxembourg",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "LT",
 	   "codcountry" : "+370",
 	   "namecountry" : "Lihuania (+370)",
 	   "nameimagecountry" : "iconLithuania",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "MK",
 	   "codcountry" : "+389",
 	   "namecountry" : "Macedonia (+389)",
 	   "nameimagecountry" : "iconMacedonia",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "MG",
 	   "codcountry" : "+261",
 	   "namecountry" : "Madagascar (+261)",
 	   "nameimagecountry" : "iconMadagascar",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "MX",
 	   "codcountry" : "+52",
 	   "namecountry" : "Mexico (+52)",
 	   "nameimagecountry" : "iconMexico",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "MC",
 	   "codcountry" : "+377",
 	   "namecountry" : "Monaco (+377)",
 	   "nameimagecountry" : "iconMonaco",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "MA",
 	   "codcountry" : "+212",
 	   "namecountry" : "Marocco (+212)",
 	   "nameimagecountry" : "iconMarocco",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "MZ",
 	   "codcountry" : "+258",
 	   "namecountry" : "Mozambique (+258)",
 	   "nameimagecountry" : "iconMozambique",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "NO",
 	   "codcountry" : "+47",
 	   "namecountry" : "Norway (+47)",
 	   "nameimagecountry" : "iconNorway",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "KP",
 	   "codcountry" : "+850",
 	   "namecountry" : "North Korea (+850)",
 	   "nameimagecountry" : "iconNorthkorea",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "NL",
 	   "codcountry" : "+31",
 	   "namecountry" : "Netherlands (+31)",
 	   "nameimagecountry" : "iconNetherlands",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "NP",
 	   "codcountry" : "+977",
 	   "namecountry" : "Nepal (+977)",
 	   "nameimagecountry" : "iconNepal",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "NZ",
 	   "codcountry" : "+64",
 	   "namecountry" : "New Zealand (+64)",
 	   "nameimagecountry" : "iconNewzealand",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "NG",
 	   "codcountry" : "+234",
 	   "namecountry" : "Nigeria (+234)",
 	   "nameimagecountry" : "iconNigeria",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "PA",
 	   "codcountry" : "+507",
 	   "namecountry" : "Panama (+507)",
 	   "nameimagecountry" : "iconPanama",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "PY",
 	   "codcountry" : "+595",
 	   "namecountry" : "Paraguay (+595)",
 	   "nameimagecountry" : "iconParaguay",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "PE",
 	   "codcountry" : "+51",
 	   "namecountry" : "Peru (+51)",
 	   "nameimagecountry" : "iconPeru",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "PH",
 	   "codcountry" : "+63",
 	   "namecountry" : "Philippines (+63)",
 	   "nameimagecountry" : "iconPhilippines",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "PL",
 	   "codcountry" : "+48",
 	   "namecountry" : "Poland (+48)",
 	   "nameimagecountry" : "iconPoland",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "PT",
 	   "codcountry" : "+351",
 	   "namecountry" : "Portugal (+351)",
 	   "nameimagecountry" : "iconPortugal",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "PR",
 	   "codcountry" : "+1",
 	   "namecountry" : "Puerto Rico (+1)",
 	   "nameimagecountry" : "iconPortugal",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "QA",
 	   "codcountry" : "+974",
 	   "namecountry" : "Qatar (+974)",
 	   "nameimagecountry" : "iconQatar",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "RO",
 	   "codcountry" : "+40",
 	   "namecountry" : "Romania (+40)",
 	   "nameimagecountry" : "iconRomania",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "RU",
 	   "codcountry" : "+7",
 	   "namecountry" : "Russia (+7)",
 	   "nameimagecountry" : "iconRussian",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "SA",
 	   "codcountry" : "+966",
 	   "namecountry" : "Saudi Arabia (+966)",
 	   "nameimagecountry" : "iconSaudiarabia",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "SN",
 	   "codcountry" : "+221",
 	   "namecountry" : "Senegal (+221)",
 	   "nameimagecountry" : "iconSenegal",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "SG",
 	   "codcountry" : "+65",
 	   "namecountry" : "Singapore (+65)",
 	   "nameimagecountry" : "iconSingapore",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "ZA",
 	   "codcountry" : "+27",
 	   "namecountry" : "South Africa (+27)",
 	   "nameimagecountry" : "iconSouthafrica",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "KR",
 	   "codcountry" : "+82",
 	   "namecountry" : "South Korea (+82)",
 	   "nameimagecountry" : "iconSouthkorea",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "ES",
 	   "codcountry" : "+34",
 	   "namecountry" : "Spain (+34)",
 	   "nameimagecountry" : "iconSpain",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "SZ",
 	   "codcountry" : "+268",
 	   "namecountry" : "Swaziland (+268)",
 	   "nameimagecountry" : "iconSwaziland",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "SE",
 	   "codcountry" : "+46",
 	   "namecountry" : "Sweden (+46)",
 	   "nameimagecountry" : "iconSweden",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "CH",
 	   "codcountry" : "+41",
 	   "namecountry" : "Switzerland (+41)",
 	   "nameimagecountry" : "iconSwitzerland",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "SY",
 	   "codcountry" : "+963",
 	   "namecountry" : "Syria (+963)",
 	   "nameimagecountry" : "iconSyria",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "TW",
 	   "codcountry" : "+886",
 	   "namecountry" : "Taiwan (+886)",
 	   "nameimagecountry" : "iconTaiwan",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "TH",
 	   "codcountry" : "+66",
 	   "namecountry" : "Thailand (+66)",
 	   "nameimagecountry" : "iconThailand",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "TN",
 	   "codcountry" : "+216",
 	   "namecountry" : "Tunisia (+216)",
 	   "nameimagecountry" : "iconTunisia",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "US",
 	   "codcountry" : "+1",
 	   "namecountry" : "United States (+1)",
 	   "nameimagecountry" : "iconUSA",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "UY",
 	   "codcountry" : "+598",
 	   "namecountry" : "Uruguay (+598)",
 	   "nameimagecountry" : "iconUruguay",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "UA",
 	   "codcountry" : "+380",
 	   "namecountry" : "Ukraine (+380)",
 	   "nameimagecountry" : "iconUkraine",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "UK",
 	   "codcountry" : "+44",
 	   "namecountry" : "United Kingdom (+44)",
 	   "nameimagecountry" : "iconGrabretanha",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "AE",
 	   "codcountry" : "+971",
 	   "namecountry" : "United Arab Emirates (+971)",
 	   "nameimagecountry" : "iconSaudiarabia",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "VA",
 	   "codcountry" : "+379",
 	   "namecountry" : "Vatican City (+379)",
 	   "nameimagecountry" : "iconVatican",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "VE",
 	   "codcountry" : "+58",
 	   "namecountry" : "Venezuela (+58)",
 	   "nameimagecountry" : "iconVenezuela",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	},
 	{
 	   "identifier" : "VN",
 	   "codcountry" : "+84",
 	   "namecountry" : "Vietnam (+84)",
 	   "nameimagecountry" : "iconVietnam",
-	   "unityWeightL" : [{"g":"Gramo","kg":"Kilogramo","t":"Tonelada"}],
-	   "unityDistanceL" : [{"m":"Metro","km":"Kilometro"}]
+	   "unityWeightL" : [{"g":"Gramo"},{"kg":"Kilogramo"},{"t":"Tonelada"}],
+	   "unityDistanceL" : [{"m":"Metro"},{"km":"Kilometro"}]
 	}
 	
 ]	
