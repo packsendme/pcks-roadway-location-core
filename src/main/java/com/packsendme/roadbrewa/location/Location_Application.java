@@ -28,6 +28,11 @@ public class Location_Application {
 		return args -> {
 			
 			int countrL = countryService.getCountryTotalRegister();
+			
+			System.out.println("===============");
+			System.out.println("country total "+ countrL);
+			System.out.println("===============");
+
 			if(countrL == 0) {
 				// read json and write to db
 				ObjectMapper mapper = new ObjectMapper();
