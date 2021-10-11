@@ -1,4 +1,4 @@
-package com.packsendme.roadbrewa.location.dao;
+package com.packsendme.roadway.location.dao;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -9,11 +9,11 @@ import org.springframework.context.annotation.ComponentScan;
 import org.springframework.stereotype.Component;
 
 import com.mongodb.MongoClientException;
-import com.packsendme.roadbrewa.entity.Location;
-import com.packsendme.roadbrewa.location.repository.ILocation_Repository;
+import com.packsendme.roadway.commons.entity.Location;
+import com.packsendme.roadway.location.repository.ILocation_Repository;
 
 @Component
-@ComponentScan({"com.packsendme.roadbrewa.location.repository"})
+@ComponentScan({"com.packsendme.roadway.location.repository"})
 public class Location_Dao implements ICrud_Dao<Location> {
 
 	@Autowired

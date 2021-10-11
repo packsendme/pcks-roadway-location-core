@@ -1,4 +1,4 @@
-package com.packsendme.roadbrewa.location.service;
+package com.packsendme.roadway.location.service;
 
 import java.util.Optional;
 
@@ -8,16 +8,16 @@ import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 
-import com.packsendme.lib.common.constants.generic.HttpExceptionPackSend;
-import com.packsendme.lib.common.response.Response;
-import com.packsendme.roadbrewa.component.RoadwayManagerConstants;
-import com.packsendme.roadbrewa.dto.LocationDto;
-import com.packsendme.roadbrewa.entity.Location;
-import com.packsendme.roadbrewa.location.dao.Location_Dao;
-import com.packsendme.roadbrewa.location.dto.LocationListResponse_Dto;
+import com.packsendme.cross.common.constants.generic.HttpExceptionPackSend;
+import com.packsendme.cross.common.response.Response;
+import com.packsendme.roadway.commons.constants.RoadwayManagerConstants;
+import com.packsendme.roadway.commons.dto.LocationDto;
+import com.packsendme.roadway.commons.entity.Location;
+import com.packsendme.roadway.location.dao.Location_Dao;
+import com.packsendme.roadway.location.dto.LocationListResponse_Dto;
 
 @Service
-@ComponentScan({"com.packsendme.roadbrewa.roadway.dao"})
+@ComponentScan({"com.packsendme.roadway.location.dao"})
 public class Location_Service {
 	
 	@Autowired

@@ -1,10 +1,10 @@
-package com.packsendme.roadbrewa.location.repository;
+package com.packsendme.roadway.location.repository;
 
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.data.mongodb.repository.Query;
 import org.springframework.stereotype.Repository;
 
-import com.packsendme.roadbrewa.entity.Location;
+import com.packsendme.roadway.commons.entity.Location;
 
 @Repository
 public interface ILocation_Repository extends MongoRepository<Location, String>{

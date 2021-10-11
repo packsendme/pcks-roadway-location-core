@@ -1,4 +1,4 @@
-package com.packsendme.roadbrewa.location.service;
+package com.packsendme.roadway.location.service;
 
 import java.util.List;
 
@@ -8,15 +8,16 @@ import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 
-import com.packsendme.lib.common.constants.generic.HttpExceptionPackSend;
-import com.packsendme.lib.common.response.Response;
-import com.packsendme.roadbrewa.dto.CountryDto;
-import com.packsendme.roadbrewa.entity.Country;
-import com.packsendme.roadbrewa.location.dao.Country_Dao;
-import com.packsendme.roadbrewa.location.dto.CountriesListResponse_Dto;
+
+import com.packsendme.cross.common.constants.generic.HttpExceptionPackSend;
+import com.packsendme.cross.common.response.Response;
+import com.packsendme.roadway.commons.dto.CountryDto;
+import com.packsendme.roadway.commons.entity.Country;
+import com.packsendme.roadway.location.dao.Country_Dao;
+import com.packsendme.roadway.location.dto.CountriesListResponse_Dto;
 
 @Service
-@ComponentScan({"com.packsendme.roadbrewa.roadway.dao"})
+@ComponentScan({"com.packsendme.roadway.location.dao"})
 public class Country_Service {
 	
 	@Autowired

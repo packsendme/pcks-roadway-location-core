@@ -1,4 +1,4 @@
-package com.packsendme.roadbrewa.location.dao;
+package com.packsendme.roadway.location.dao;
 
 import java.util.List;
 import java.util.Optional;

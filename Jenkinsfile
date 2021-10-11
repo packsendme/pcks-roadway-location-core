@@ -2,8 +2,8 @@ pipeline {
     agent any
 
     environment { 
-        NAME_CONTAINER = "pcks-roadbrewa-location-core"
-        NAME_IMAGE = "pcks-roadbrewa-location-img:1"
+        NAME_CONTAINER = "pcks-roadway-location-core"
+        NAME_IMAGE = "pcks-roadway-location-img:1"
         ID_CONTAINER = null 
         PORT_CONTAINER = "9021:9021"
     }
@@ -13,7 +13,7 @@ pipeline {
         stage('Git Checkout Repositorio') {
             steps {
                 git branch: 'develop',
-                url: 'https://github.com/packsendme/pcks-roadbrewa-location-core.git'
+                url: 'https://github.com/packsendme/pcks-roadway-location-core.git'
             }
         }
         stage('Java Build') {

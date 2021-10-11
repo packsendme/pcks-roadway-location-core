@@ -1,4 +1,4 @@
-package com.packsendme.roadbrewa.location;
+package com.packsendme.roadway.location;
 
 import java.io.IOException;
 import java.io.InputStream;
@@ -13,8 +13,8 @@ import org.springframework.context.annotation.Bean;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.DeserializationFeature;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.packsendme.roadbrewa.entity.Country;
-import com.packsendme.roadbrewa.location.service.Country_Service;
+import com.packsendme.roadway.commons.entity.Country;
+import com.packsendme.roadway.location.service.Country_Service;
 
 @SpringBootApplication
 @EnableEurekaClient

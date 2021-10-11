@@ -1,10 +1,10 @@
-package com.packsendme.roadbrewa.location.dto;
+package com.packsendme.roadway.location.dto;
 
 import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.packsendme.roadbrewa.dto.LocationDto;
+import com.packsendme.roadway.commons.dto.LocationDto;
 
 import lombok.Getter;
 import lombok.Setter;

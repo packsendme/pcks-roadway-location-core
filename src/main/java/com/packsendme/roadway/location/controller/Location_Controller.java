@@ -1,4 +1,4 @@
-package com.packsendme.roadbrewa.location.controller;
+package com.packsendme.roadway.location.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
@@ -14,12 +14,12 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.packsendme.roadbrewa.dto.LocationDto;
-import com.packsendme.roadbrewa.location.service.Country_Service;
-import com.packsendme.roadbrewa.location.service.Location_Service;
+import com.packsendme.roadway.commons.dto.LocationDto;
+import com.packsendme.roadway.location.service.Country_Service;
+import com.packsendme.roadway.location.service.Location_Service;
 
 @RestController
-@RequestMapping("/roadbrewa")
+@RequestMapping("/roadway/location")
 public class Location_Controller {
 
 	
@@ -35,14 +35,14 @@ public class Location_Controller {
 
 
 	@CrossOrigin(origins = "*", allowedHeaders = "*")
-	@GetMapping("/location")
+	@GetMapping("/")
 	public ResponseEntity<?> getLocation(@RequestHeader("isoLanguageCode") String isoLanguageCode,@RequestHeader("isoCountryCode") String isoCountryCode,
 			@RequestHeader("isoCurrencyCode") String isoCurrencyCode,@RequestHeader("originApp") String originApp) {	
 		return locationService.findAll();
 	}
 
 	@CrossOrigin(origins = "*", allowedHeaders = "*")
-	@PostMapping("/location")
+	@PostMapping("/")
 	public ResponseEntity<?> postLocation(@RequestHeader("isoLanguageCode") String isoLanguageCode,@RequestHeader("isoCountryCode") String isoCountryCode,
 			@RequestHeader("isoCurrencyCode") String isoCurrencyCode,@RequestHeader("originApp") String originApp, 
 			@Validated  @RequestBody LocationDto location)
@@ -51,7 +51,7 @@ public class Location_Controller {
 	}
 	
 	@CrossOrigin(origins = "*", allowedHeaders = "*")
-	@DeleteMapping("/location")
+	@DeleteMapping("/")
 	public ResponseEntity<?> deleteLocation(@RequestHeader("isoLanguageCode") String isoLanguageCode,@RequestHeader("isoCountryCode") String isoCountryCode,
 			@RequestHeader("isoCurrencyCode") String isoCurrencyCode,@RequestHeader("originApp") String originApp, @Validated @RequestParam("id") String id)
 	{	
@@ -59,7 +59,7 @@ public class Location_Controller {
 	}
 
 	@CrossOrigin(origins = "*", allowedHeaders = "*")
-	@PutMapping("/location")
+	@PutMapping("/")
 	public ResponseEntity<?> updateLocation(@RequestHeader("isoLanguageCode") String isoLanguageCode,@RequestHeader("isoCountryCode") String isoCountryCode,
 			@RequestHeader("isoCurrencyCode") String isoCurrencyCode,@RequestHeader("originApp") String originApp, @Validated @RequestParam("id") String id,
 			@Validated  @RequestBody LocationDto location)
@@ -74,7 +74,7 @@ public class Location_Controller {
 
 
 	@CrossOrigin(origins = "*", allowedHeaders = "*")
-	@GetMapping("/location/country")
+	@GetMapping("/country")
 	public ResponseEntity<?> getCountry(@RequestHeader("isoLanguageCode") String isoLanguageCode,@RequestHeader("isoCountryCode") String isoCountryCode,
 			@RequestHeader("isoCurrencyCode") String isoCurrencyCode,@RequestHeader("originApp") String originApp) throws Exception {	
 		return countryService.getCountryAll();
